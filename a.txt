@@ -9,3 +9,4 @@
 0x4-10316DS10316 [saugat]
 0x4-10465DS10465 [sangam muji ]
 0x4-10188DS10188 [nabindra ]
+0x4-10286DS10286 [asx]
