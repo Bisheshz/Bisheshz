@@ -1,7 +1,3 @@
-0x4-10580DS10580 [cosx Grg] [Jan 31]
+0x4-10200DS10200 [kapil] 
 0x4-10572DS10572  [owner]
-0x4-10280DS10280 [alkesh] 
 0x4-10131DS10131 [Premeium]
-0x4-10231DS10231 [kushan vai ]
-0x4-10300DS10300 [asx]
-0x4-10663DS10663 [asx]
